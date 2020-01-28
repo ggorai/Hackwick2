@@ -15,6 +15,18 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
+    @IBAction func PressMeButtonPress(_ sender: Any) {
+    
+        
+print("Hello World")
+    }
 
+  
+
+    @IBAction func SideMeButtonPress(_ sender: Any) {
+    
+    print ("Goodbye World")
+    }
 }
+
 
